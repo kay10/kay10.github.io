@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Themes | Ketan Bacchuwar, PhD</title>
+    <link>/tags/source-themes/</link>
+      <atom:link href="/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Source Themes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Source Themes</title>
+      <link>/tags/source-themes/</link>
+    </image>
+    
+    <item>
+      <title>Scale-space for empty catheter segmentation in PCI fluoroscopic images</title>
+      <link>/publication/3/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYSTEM AND METHOD FOR ADJUSTING A RADIATION DOSE DURING IMAGING OF AN OBJECT WITHIN A SUBJECT</title>
+      <link>/publication/11/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VOIDD: Automatic Vessel-of-Intervention Dynamic Detection in PCI Procedures</title>
+      <link>/publication/4/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards semantic image analysis of PCI: Empty catheter segmentation</title>
+      <link>/publication/5/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VOIDD: Automatic vessel of intervention dynamic detection and tracking in PCI Procedures</title>
+      <link>/publication/6/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of OCR applications</title>
+      <link>/publication/7/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annotation supported contour based object tracking with frame based error analysis</title>
+      <link>/publication/10/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel GA based OCR enhancement and segmentation methodology for marathi language in bimodal framework</title>
+      <link>/publication/9/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An OMR based automatic music player</title>
+      <link>/publication/8/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

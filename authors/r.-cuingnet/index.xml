@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Cuingnet | Ketan Bacchuwar, PhD</title>
+    <link>/authors/r.-cuingnet/</link>
+      <atom:link href="/authors/r.-cuingnet/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Cuingnet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>R. Cuingnet</title>
+      <link>/authors/r.-cuingnet/</link>
+    </image>
+    
+    <item>
+      <title>Fast kidney detection and segmentation with learned kernel convolution and model deformation in 3d ultrasound images.</title>
+      <link>/publication/1/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

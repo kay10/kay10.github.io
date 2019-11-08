@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Ketan Bacchuwar, PhD</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Fast kidney detection and segmentation with learned kernel convolution and model deformation in 3d ultrasound images.</title>
+      <link>/publication/1/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annotation supported contour based object tracking with frame based error analysis</title>
+      <link>/publication/10/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel GA based OCR enhancement and segmentation methodology for marathi language in bimodal framework</title>
+      <link>/publication/9/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An OMR based automatic music player</title>
+      <link>/publication/8/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

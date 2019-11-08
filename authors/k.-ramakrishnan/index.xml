@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Ramakrishnan | Ketan Bacchuwar, PhD</title>
+    <link>/authors/k.-ramakrishnan/</link>
+      <atom:link href="/authors/k.-ramakrishnan/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Ramakrishnan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>K. Ramakrishnan</title>
+      <link>/authors/k.-ramakrishnan/</link>
+    </image>
+    
+    <item>
+      <title>A jump patch-block match algorithm for multiple forgery detection</title>
+      <link>/publication/2/</link>
+      <pubDate>Sun, 07 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

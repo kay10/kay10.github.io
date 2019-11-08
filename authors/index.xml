@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ketan Bacchuwar, PhD</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Ketan Bacchuwar is Co-Founder &amp;amp; CTO of Crosscope. With 9 years of experience, his strengths shine when bridging the valley-of-death, by translating state-of-the-art artificially intelligent image processing algorithms to practical and usable solutions for industrial challenges. Ketan is excited about bridging health disparities with engineering strategies using new technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C. Riddell</title>
+      <link>/authors/c.-riddell/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/c.-riddell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Cousty</title>
+      <link>/authors/j.-cousty/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-cousty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L. Najman</title>
+      <link>/authors/l.-najman/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/l.-najman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Vaillant</title>
+      <link>/authors/r.-vaillant/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-vaillant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Ardon</title>
+      <link>/authors/r.-ardon/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-ardon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Cuingnet</title>
+      <link>/authors/r.-cuingnet/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-cuingnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Ramakrishnan</title>
+      <link>/authors/k.-ramakrishnan/</link>
+      <pubDate>Sun, 07 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-ramakrishnan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Bhasin</title>
+      <link>/authors/a.-bhasin/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-bhasin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Choubey</title>
+      <link>/authors/a.-choubey/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-choubey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Singh</title>
+      <link>/authors/a.-singh/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-singh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Kumar</title>
+      <link>/authors/d.-kumar/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-kumar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Karanam</title>
+      <link>/authors/s.-karanam/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-karanam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
